@@ -4,10 +4,10 @@
 #include "Box2D/Box2D/Box2D.h"
 
 #define PIXEL_PER_METER 50.0f
-#define PIXEL_PER_PIXEL 0.02f
+#define METER_PER_PIXEL 0.02f
 
-#define METERS_TO_PIXELS(m) ((int) PIXELS_PER_METER * m)
-#define PIXEL_TO_METERS(p) ((float) METERS_PER_PIXEL * p)
+#define METERS_TO_PIXELS(m) ((int) PIXEL_PER_METER * m)
+#define PIXEL_TO_METERS(p) ((float) METER_PER_PIXEL * p)
 class b2World;
 
 class ModulePhysics : public Module
@@ -26,6 +26,7 @@ private:
 	b2World *world;
 	b2Vec2 gravity;
 	b2BodyDef groundBodyDef;
+	b2BodyDef multi_circle;
 	b2PolygonShape groundBox;
 	bool debug;
 };
