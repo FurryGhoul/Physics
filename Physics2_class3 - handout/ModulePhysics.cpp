@@ -257,11 +257,9 @@ float PhysBody::GetRotation() const
 
 bool PhysBody::Contains(int x, int y) const
 {
-	x = PIXEL_TO_METERS(x);
-	y = PIXEL_TO_METERS(y);
 	// TODO 1: Write the code to return true in case the point
 	// is inside ANY of the shapes contained by this body
-	b2Vec2 point(x, y);
+	b2Vec2 point(PIXEL_TO_METERS(x), PIXEL_TO_METERS(y));
 	bool ret = false;
 	b2Fixture* fix = body->GetFixtureList();
 	/*while (fix != NULL)
@@ -276,14 +274,7 @@ bool PhysBody::Contains(int x, int y) const
 	for (b2Fixture* fix = body->GetFixtureList(); fix != NULL; fix = fix->GetNext())
 	{
 		
-		if (fix->TestPoint(point))
-		{
-			ret = true;
-		}
-		else
-		{
-			ret = false;
-		}
+		ret = fix->TestPoint(point);
 	}
 	return ret;
 }
@@ -292,6 +283,32 @@ int PhysBody::RayCast(int x1, int y1, int x2, int y2, float& normal_x, float& no
 {
 	// TODO 2: Write code to test a ray cast between both points provided. If not hit return -1
 	// if hit, fill normal_x and normal_y and return the distance between x1,y1 and it's colliding point
+	b2Vec2 v1(x1, y1);
+	b2Vec2 v2(x2, y2);
+	b2Vec2 normal;
+	float maxFraction = 2.0f;
+	float fraction;
+	b2RayCastInput input;
+	input.p1 = v1;
+	input.p2 = v2;
+	input.maxFraction = 1;
+
+	float closestFraction = 1; //start with end of line as p2
+	b2Vec2 intersectionNormal(0, 0);
+	for (b2Body* b = world->GetBodyList(); b; b = b->GetNext()) {
+		for (b2Fixture* f = b->GetFixtureList(); f; f = f->GetNext()) {
+
+			b2RayCastOutput output;
+			if (!f->RayCast(&output, input))
+				continue;
+			if (output.fraction < closestFraction) {
+				closestFraction = output.fraction;
+				intersectionNormal = output.normal;
+			}
+		}
+	}
+
+	b2Vec2 intersectionPoint = v1 + closestFraction * (v2 - v1);
 	int ret = -1;
 
 	return ret;
