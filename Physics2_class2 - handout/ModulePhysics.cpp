@@ -59,6 +59,24 @@ update_status ModulePhysics::PreUpdate()
 	return UPDATE_CONTINUE;
 }
 
+BodyPointer* ModulePhysics::CreateCircle(float rad)
+{
+	b2BodyDef body;
+	body.type = b2_staticBody;
+	body.position.Set(PIXEL_TO_METERS(App->input->GetMouseX()), PIXEL_TO_METERS(App->input->GetMouseX()));
+
+	b2Body* b = world->CreateBody(&body);
+
+	b2CircleShape shape;
+	shape.m_radius = PIXEL_TO_METERS(rad);
+
+	b2FixtureDef fixture;
+	fixture.shape = &shape;
+	b->CreateFixture(&fixture);
+
+	return new BodyPointer(b);
+}
+
 // 
 update_status ModulePhysics::PostUpdate()
 {

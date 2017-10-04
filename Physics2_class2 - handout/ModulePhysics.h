@@ -18,7 +18,15 @@ class b2Body;
 // and has a method to request the position
 // then write the implementation in the .cpp
 // Then make your circle creation function to return a pointer to that class
-
+class BodyPointer
+{
+public:
+	BodyPointer(b2Body* body);
+	~BodyPointer();
+public:
+	void GetPosition(int x, int y);
+	void GetRotation(float rad);
+};
 
 class ModulePhysics : public Module
 {
@@ -32,7 +40,7 @@ public:
 	bool CleanUp();
 
 	// TODO 4: Move body creation to 3 functions to create circles, rectangles and chains
-
+	BodyPointer* CreateCircle(float rad);
 private:
 
 	bool debug;

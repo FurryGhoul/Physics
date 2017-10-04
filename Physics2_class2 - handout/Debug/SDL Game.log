@@ -1,5 +1,6 @@
 ﻿  ModulePhysics.cpp
-c:\users\ivandv\desktop\physics2_class2 - handout\modulephysics.cpp(35): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\ivandv\documents\github\physics\physics2_class2 - handout\modulephysics.cpp(35): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
 c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(131): warning C4577: 'noexcept' used with no exception handling mode specified; termination on exception is not guaranteed. Specify /EHsc
-  SDL Game.vcxproj -> C:\Users\ivandv\Desktop\Physics2_class2 - handout\Debug\2D Physics - class 2.exe
-  SDL Game.vcxproj -> C:\Users\ivandv\Desktop\Physics2_class2 - handout\Debug\2D Physics - class 2.pdb (Full PDB)
+  LINK : C:\Users\ivandv\Documents\GitHub\Physics\Physics2_class2 - handout\Debug\2D Physics - class 2.exe not found or not built by the last incremental link; performing full link
+ModulePhysics.obj : error LNK2019: unresolved external symbol "public: __thiscall BodyPointer::BodyPointer(class b2Body *)" (??0BodyPointer@@QAE@PAVb2Body@@@Z) referenced in function "public: class BodyPointer * __thiscall ModulePhysics::CreateCircle(float)" (?CreateCircle@ModulePhysics@@QAEPAVBodyPointer@@M@Z)
+C:\Users\ivandv\Documents\GitHub\Physics\Physics2_class2 - handout\Debug\2D Physics - class 2.exe : fatal error LNK1120: 1 unresolved externals

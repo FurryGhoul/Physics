@@ -1,18 +1,12 @@
 ﻿  ModulePhysics.cpp
-c:\users\ivandv\desktop\physics2_class3 - handout\modulephysics.cpp(35): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-c:\users\ivandv\desktop\physics2_class3 - handout\modulephysics.cpp(111): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-c:\users\ivandv\desktop\physics2_class3 - handout\modulephysics.cpp(112): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-c:\users\ivandv\desktop\physics2_class3 - handout\modulephysics.cpp(128): warning C4018: '<': signed/unsigned mismatch
-c:\users\ivandv\desktop\physics2_class3 - handout\modulephysics.cpp(260): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-c:\users\ivandv\desktop\physics2_class3 - handout\modulephysics.cpp(261): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-c:\users\ivandv\desktop\physics2_class3 - handout\modulephysics.cpp(264): warning C4244: 'argument': conversion from 'int' to 'float32', possible loss of data
+c:\users\ivandv\documents\github\physics\physics2_class3 - handout\modulephysics.cpp(35): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\ivandv\documents\github\physics\physics2_class3 - handout\modulephysics.cpp(111): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\ivandv\documents\github\physics\physics2_class3 - handout\modulephysics.cpp(112): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\ivandv\documents\github\physics\physics2_class3 - handout\modulephysics.cpp(128): warning C4018: '<': signed/unsigned mismatch
+c:\users\ivandv\documents\github\physics\physics2_class3 - handout\modulephysics.cpp(260): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\ivandv\documents\github\physics\physics2_class3 - handout\modulephysics.cpp(261): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\ivandv\documents\github\physics\physics2_class3 - handout\modulephysics.cpp(264): warning C4244: 'argument': conversion from 'int' to 'float32', possible loss of data
 c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(131): warning C4577: 'noexcept' used with no exception handling mode specified; termination on exception is not guaranteed. Specify /EHsc
-  Generating Code...
-  Compiling...
-  Application.cpp
-c:\program files (x86)\microsoft visual studio 14.0\vc\include\limits(210): warning C4577: 'noexcept' used with no exception handling mode specified; termination on exception is not guaranteed. Specify /EHsc
-  Generating Code...
-  Skipping... (no relevant changes detected)
-  ModuleSceneIntro.cpp
-  SDL Game.vcxproj -> C:\Users\ivandv\Desktop\Physics2_class3 - handout\Debug\2D Physics - class 3.exe
-  SDL Game.vcxproj -> C:\Users\ivandv\Desktop\Physics2_class3 - handout\Debug\2D Physics - class 3.pdb (Full PDB)
+  LINK : C:\Users\ivandv\Documents\GitHub\Physics\Physics2_class3 - handout\Debug\2D Physics - class 3.exe not found or not built by the last incremental link; performing full link
+  SDL Game.vcxproj -> C:\Users\ivandv\Documents\GitHub\Physics\Physics2_class3 - handout\Debug\2D Physics - class 3.exe
+  SDL Game.vcxproj -> C:\Users\ivandv\Documents\GitHub\Physics\Physics2_class3 - handout\Debug\2D Physics - class 3.pdb (Full PDB)
