@@ -1,0 +1,15 @@
+﻿  ModuleSceneIntro.cpp
+  Generating Code...
+  Compiling...
+  Application.cpp
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  ModuleWindow.cpp
+  ModuleRenderer3D.cpp
+  ModulePhysics3D.cpp
+  ModuleInput.cpp
+  ModuleCamera3D.cpp
+  ModuleAudio.cpp
+  Main.cpp
+  3D Physics.vcxproj -> C:\Users\ivandv\Desktop\Physics3D_class3 - handout\Debug\3D Physics - class3 Handout.exe
+  3D Physics.vcxproj -> C:\Users\ivandv\Desktop\Physics3D_class3 - handout\Debug\3D Physics - class3 Handout.pdb (Partial PDB)

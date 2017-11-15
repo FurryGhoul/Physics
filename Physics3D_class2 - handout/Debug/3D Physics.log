@@ -1,0 +1,269 @@
+﻿  ModulePhysics3D.cpp
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(26): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(26): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(27): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(27): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(28): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(28): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(29): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(29): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(31): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(31): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(31): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(37): error C2504: 'btIDebugDraw': base class undefined
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(42): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(42): error C2143: syntax error: missing ',' before '&'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(43): error C2143: syntax error: missing ',' before '&'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(45): error C2143: syntax error: missing ',' before '&'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(49): error C3646: 'mode': unknown override specifier
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(49): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.cpp(29): error C2065: 'config': undeclared identifier
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.cpp(30): error C2065: 'disp': undeclared identifier
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.cpp(30): error C2065: 'config': undeclared identifier
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.cpp(31): error C2065: 'broadphase': undeclared identifier
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.cpp(32): error C2065: 'cons_solver': undeclared identifier
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.cpp(44): error C2065: 'config': undeclared identifier
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.cpp(44): error C2541: 'delete': cannot delete objects that are not pointers
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.cpp(45): error C2065: 'disp': undeclared identifier
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.cpp(45): error C2541: 'delete': cannot delete objects that are not pointers
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.cpp(46): error C2065: 'broadphase': undeclared identifier
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.cpp(46): error C2541: 'delete': cannot delete objects that are not pointers
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.cpp(47): error C2065: 'cons_solver': undeclared identifier
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.cpp(47): error C2541: 'delete': cannot delete objects that are not pointers
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.cpp(57): error C2065: 'world': undeclared identifier
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.cpp(57): error C2065: 'disp': undeclared identifier
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.cpp(57): error C2065: 'broadphase': undeclared identifier
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.cpp(57): error C2065: 'cons_solver': undeclared identifier
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.cpp(57): error C2065: 'config': undeclared identifier
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.cpp(58): error C2065: 'world': undeclared identifier
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.cpp(58): error C2227: left of '->setGravity' must point to class/struct/union/generic type
+  c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.cpp(58): note: type is 'unknown-type'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.cpp(61): error C2065: 'world': undeclared identifier
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.cpp(61): error C2227: left of '->setDebugDrawer' must point to class/struct/union/generic type
+  c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.cpp(61): note: type is 'unknown-type'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.cpp(75): error C2065: 'world': undeclared identifier
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.cpp(75): error C2227: left of '->stepSimulation' must point to class/struct/union/generic type
+  c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.cpp(75): note: type is 'unknown-type'
+  Generating Code...
+  Compiling...
+  Application.cpp
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(26): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(26): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(27): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(27): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(28): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(28): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(29): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(29): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(31): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(31): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(31): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(37): error C2504: 'btIDebugDraw': base class undefined
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(42): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(42): error C2143: syntax error: missing ',' before '&'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(43): error C2143: syntax error: missing ',' before '&'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(45): error C2143: syntax error: missing ',' before '&'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(49): error C3646: 'mode': unknown override specifier
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(49): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Generating Code...
+  Compiling...
+  Main.cpp
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(26): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(26): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(27): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(27): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(28): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(28): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(29): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(29): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(31): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(31): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(31): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(37): error C2504: 'btIDebugDraw': base class undefined
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(42): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(42): error C2143: syntax error: missing ',' before '&'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(43): error C2143: syntax error: missing ',' before '&'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(45): error C2143: syntax error: missing ',' before '&'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(49): error C3646: 'mode': unknown override specifier
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(49): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Generating Code...
+  Compiling...
+  ModuleAudio.cpp
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(26): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(26): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(27): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(27): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(28): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(28): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(29): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(29): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(31): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(31): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(31): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(37): error C2504: 'btIDebugDraw': base class undefined
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(42): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(42): error C2143: syntax error: missing ',' before '&'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(43): error C2143: syntax error: missing ',' before '&'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(45): error C2143: syntax error: missing ',' before '&'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(49): error C3646: 'mode': unknown override specifier
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(49): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Generating Code...
+  Compiling...
+  ModuleCamera3D.cpp
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(26): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(26): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(27): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(27): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(28): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(28): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(29): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(29): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(31): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(31): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(31): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(37): error C2504: 'btIDebugDraw': base class undefined
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(42): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(42): error C2143: syntax error: missing ',' before '&'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(43): error C2143: syntax error: missing ',' before '&'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(45): error C2143: syntax error: missing ',' before '&'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(49): error C3646: 'mode': unknown override specifier
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(49): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Generating Code...
+  Compiling...
+  ModuleInput.cpp
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(26): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(26): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(27): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(27): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(28): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(28): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(29): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(29): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(31): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(31): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(31): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(37): error C2504: 'btIDebugDraw': base class undefined
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(42): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(42): error C2143: syntax error: missing ',' before '&'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(43): error C2143: syntax error: missing ',' before '&'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(45): error C2143: syntax error: missing ',' before '&'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(49): error C3646: 'mode': unknown override specifier
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(49): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Generating Code...
+  Compiling...
+  ModuleRenderer3D.cpp
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(26): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(26): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(27): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(27): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(28): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(28): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(29): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(29): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(31): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(31): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(31): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(37): error C2504: 'btIDebugDraw': base class undefined
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(42): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(42): error C2143: syntax error: missing ',' before '&'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(43): error C2143: syntax error: missing ',' before '&'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(45): error C2143: syntax error: missing ',' before '&'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(49): error C3646: 'mode': unknown override specifier
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(49): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Generating Code...
+  Compiling...
+  ModuleSceneIntro.cpp
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(26): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(26): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(27): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(27): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(28): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(28): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(29): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(29): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(31): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(31): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(31): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(37): error C2504: 'btIDebugDraw': base class undefined
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(42): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(42): error C2143: syntax error: missing ',' before '&'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(43): error C2143: syntax error: missing ',' before '&'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(45): error C2143: syntax error: missing ',' before '&'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(49): error C3646: 'mode': unknown override specifier
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(49): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Generating Code...
+  Compiling...
+  ModuleWindow.cpp
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(26): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(26): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(27): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(27): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(28): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(28): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(29): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(29): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(31): error C2143: syntax error: missing ';' before '*'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(31): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(31): error C2238: unexpected token(s) preceding ';'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(37): error C2504: 'btIDebugDraw': base class undefined
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(42): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(42): error C2143: syntax error: missing ',' before '&'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(43): error C2143: syntax error: missing ',' before '&'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(45): error C2143: syntax error: missing ',' before '&'
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(49): error C3646: 'mode': unknown override specifier
+c:\users\ivandv\desktop\physics3d_class2 - handout\modulephysics3d.h(49): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Generating Code...
